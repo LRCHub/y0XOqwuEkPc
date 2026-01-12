@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "from here",
+  "base_artist": "may in film",
+  "createdAt": "2026-01-12T04:50:04.868395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From Here to Eternity",
+      "artist": "Michael Peterson",
+      "has_synced": true,
+      "path": "select/01_From_Here_to_Eternity_Michael_Peterson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "From Here to Eternity (Album Version)",
+      "artist": "MICHAEL PETERSON",
+      "has_synced": true,
+      "path": "select/02_From_Here_to_Eternity_(Album_Version)_MICHAEL_PETERSON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can't See Texas From Here",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_I_Can't_See_Texas_From_Here_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can't See Texas From Here (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_I_Can't_See_Texas_From_Here_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let's Start From Here",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/05_Let's_Start_From_Here_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Away from Here",
+      "artist": "Netsky feat. Selah Sue",
+      "has_synced": false,
+      "path": "select/06_Get_Away_from_Here_Netsky_feat._Selah_Sue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Away From Here (feat. Selah Sue)",
+      "artist": "Netsky",
+      "has_synced": false,
+      "path": "select/07_Get_Away_From_Here_(feat._Selah_Sue)_Netsky.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "From Here To Eternity",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/08_From_Here_To_Eternity_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Where Do We Go From Here (with Blake)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/09_Where_Do_We_Go_From_Here_(with_Blake)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Do We Go from Here?",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/10_Where_Do_We_Go_from_Here_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1000 Light Years From Here",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/11_1000_Light_Years_From_Here_Prince.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Me Away From Here, I'm Dying",
+      "artist": "Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/12_Get_Me_Away_From_Here,_I'm_Dying_Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get Me Away From Here, I'm Dying",
+      "artist": "Belle & Sebastian",
+      "has_synced": true,
+      "path": "select/13_Get_Me_Away_From_Here,_I'm_Dying_Belle_&_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Reaching out from Here",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/14_Reaching_out_from_Here_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Where Do We Go From Here",
+      "artist": "Ruelle",
+      "has_synced": true,
+      "path": "select/15_Where_Do_We_Go_From_Here_Ruelle.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Mile from Here",
+      "artist": "Cassius",
+      "has_synced": false,
+      "path": "select/16_A_Mile_from_Here_Cassius.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'll Take It From Here",
+      "artist": "Jonatha Brooke",
+      "has_synced": false,
+      "path": "select/17_I'll_Take_It_From_Here_Jonatha_Brooke.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "from here",
+      "artist": "may in film",
+      "has_synced": false,
+      "path": "select/pl_01_from_here_may_in_film.txt"
+    }
+  ]
+}
